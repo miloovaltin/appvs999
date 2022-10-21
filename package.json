@@ -1,0 +1,16 @@
+{
+"name": "appvs999",
+"theme": "app vs999",
+"version": "6.9.9",
+"description": "app vs999 สมัครสมาชิกเว็บพนันเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"app vs999",
+"app vs999 เครดิตฟรี",
+"app vs999 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/appvs999",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
